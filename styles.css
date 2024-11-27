@@ -67,5 +67,18 @@
   }
 
   :root {
-    
+    font-size: 62.5%;
+
+    --color-light: #ffffff;
+    --color-dark-blue: #111849;
+    --color-blue: #3029D9;
+    --color-light-blue: #5975FF;
+
+    --border-radius: 4px;
+
+    --font-family-base: 'Poppins', sans-serif;
+  }
+
+  body {
+    background-color: var(--color-blue);
   }
